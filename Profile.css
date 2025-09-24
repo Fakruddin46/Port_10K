@@ -116,6 +116,16 @@ body::selection{
     color: #D2C1B6;
     font-size: 200%;
 }
+.projects{
+    margin-bottom: 10px;
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #D2C1B6;
+    background-color: #456882
+}
 #contact-form{
     margin-top: 10px;
     margin-bottom: 10px;
