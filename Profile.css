@@ -145,3 +145,19 @@ body::selection{
     border-radius: 5px;
     box-sizing: border-box;
 }
+submit:hover{
+    background-color: #D2C1B6;
+    color: #456882;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+submit{
+    background-color: #D2C1B6;
+    color: #456882;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
